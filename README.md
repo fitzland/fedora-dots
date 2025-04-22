@@ -1,2 +1,1 @@
-# fedora-dots
-Fedora Install Config
+# install-scripts
